@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 4, 2020 
+##### 
+
+**Today's Progress**: Took notes on CodeHS Units 5 and 6 - Arrays and Writing Classes; Figured out how to branch using GitHub.
+
+**Thoughts:** I am starting to get many ideas on how to implement these tools, trying to organize my thoughts and the resources available.  I have ideas of what I want to do, but realize it will take some time to find the right resources or products to use.  Also not sure who hosts html that you create if that is a service or if you just create it somewhere and share a link?  I will research that tomorrow.
+
+**Link to work:** Handwritten notes and this Github page.
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
